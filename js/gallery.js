@@ -103,6 +103,3 @@ const galleryMarkup = images
 
 instance.show()
     });
-    
-
-    const test = (update);
